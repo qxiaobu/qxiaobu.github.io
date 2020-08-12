@@ -12,8 +12,7 @@ I am Associate Director of Machine Learning in the Analytics Center of Excellenc
 
 News
 ======
-  Aug 2020: PyHealth (a python library for Healthcare AI) is released!
-	Core Designer&Developer: PyHealth is a comprehensive and flexible Python library for healthcare AI, designed for both ML researchers and medical practitioners. The library is proudly developed and maintained by researchers at Carnegie Mellon University, IQVIA, and University of Illinois at Urbana-Champaign. 
+  Aug 2020: [PyHealth](https://github.com/yzhao062/PyHealth) (a python library for Healthcare AI) is released! (As Core Designer&Developer). 
 
 April 2020: A short paper is accepted by SIGIR2020
 	
