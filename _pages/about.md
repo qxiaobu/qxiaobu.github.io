@@ -14,10 +14,12 @@ News
 ======
   Aug 2020: [PyHealth](https://github.com/yzhao062/PyHealth) (a python library for Healthcare AI) is released! (As Core Designer&Developer). 
 
-April 2020: A short paper is accepted by SIGIR2020
+  May 2020: For severe Covid19, we make the detailed benchmark comparison on Xray-based deep learning diagnose and present a efficient deep ensemble strategy for accurate diagnose. The work is submitted to JAMIA.
+  
+April 2020: A short paper is accepted by SIGIR2020. (On clinical diagnose)
 	
-March 2020: A full paper is accepted by ICME2020
+March 2020: A full paper is accepted by ICME2020. (On Medical Image Segmentation and Classification)
 
-  Jan 2020: A full paper is accepted by AAAI2020
+  Jan 2020: A full paper is accepted by AAAI2020. (On Organ Segmentation)
 	
 
