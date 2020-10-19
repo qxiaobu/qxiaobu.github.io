@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Associate Director of Machine Learning in the Analytics Center of Excellence (ACOE) of IQVIA, located in Beijing China. Before joining IQVIA, I got my Ph.D. degree from University of Chinese Academy of Science, in 2016, and was a Senior Researcher in Tencent Medical AI Lab. Focus on virous Healthcare+AI Model/Algorithm/System development.
+I am Associate Director of Machine Learning in the Analytics Center of Excellence (ACOE) of IQVIA, located in Beijing China. Before joining IQVIA, I got my Ph.D. degree from University of Chinese Academy of Science, in 2016, and was a Senior Researcher in Tencent Medical AI Lab and Research Scientist in IBM Reesarch China. Focus on virous Healthcare+AI Model/Algorithm/System development.
 
 News
 ======
