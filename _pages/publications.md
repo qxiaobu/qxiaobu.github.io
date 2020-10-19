@@ -7,9 +7,9 @@ author_profile: true
 Conference Papers
 ======
 
-* <b>乔治</b>，周川，纪现才，曹亚男，郭莉. 基于地域特征和异构社交关系的事件推荐算法研究. 中文信息学报 30 (5), 47-56, 2016
-* <b>Z Qiao</b>, G Huang, J He, P Zhang, Y Zhang, L Guo. Modelling semantics across multiple time series and its applications. Knowledge-Based Systems 85, 27-36, 2015
-* 李凌云，敖吉，<b>乔治</b>，李剑. 基于微博的安全事件实时监测框架研究. 信息网络安全, 16-23, 2015
+* <b>Zhi Qiao</b>，Chuan Zhou，Xiancai Ji，Yanan Cao，Li Guo. Event Recommendation Based on Geographical Features and Heterogeneous Social Relationships. Journal of Chinese Information Processing 30 (5), 47-56, 2016
+* <b>Zhi Qiao</b>, Guangyan Huang, Jing He, Peng Zhang, Yanchun Zhang, Li Guo. Modelling semantics across multiple time series and its applications. Knowledge-Based Systems 85, 27-36, 2015
+* Lingyun Li，Ji Ao，<b>Zhi Qiao</b>，Jian Li. Research on Security Event Real-time Monitoring Framework Based on Micro-blog. Netinfo Security, 16-23, 2015
 
 
 Journal Papers
