@@ -14,3 +14,21 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+Work experience
+======
+* 2020 ~ Now: Associate Director
+  * ACOE@IQVIA
+
+* 2018 ~ 2020: Senior Researcher
+  * Medical AI Lab@Tencent
+  
+* 2016 ~ 2018: Research Scientist
+  * China Research Lab@IBM
+
+* Half-a-year in 2015: Intern
+  * Microsoft Reaserch Asia
+
+* 2011 ~ 2012: Visiting
+  * Victoria University
+
