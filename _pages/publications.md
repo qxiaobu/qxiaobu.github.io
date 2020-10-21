@@ -22,9 +22,7 @@ Conference Papers
 * [ICME2020] Li, Yongzhi; Chi, Lu; Tian, Guiyu; Mu, Yadong; Ge, Shen; <b>Qiao, Zhi</b>; Wu, Xian; Fan, Wei. Spectrally-Enforced Global Receptive Field for Contextual Medical Image Segmentation and Classification. 
 * [AAAI2020] Xue, Yuan; Tang, Hui; <b>Qiao, Zhi</b>; Gong, Zhiguo; Yin, Yong; Qian, Zhen; Huang, Chao; Fan, Wei; Huang, Xiaolei. Shape-Aware Organ Segmentation vy Predicting Signed Distance Maps. 
 * [IJCAI2019]<b>Qiao, Zhi</b>; Wu, Xian; Ge, Shen; Fan, Wei. MNN: multimodal attentional neural networks for diagnosis prediction. 
-* [MIE2018]  <b>Qiao, Zhi</b>; Sun, Ning; Li, Xiang; Xia, Eryu; Zhao, Shiwan; Qin, Yong. Using Machine Learning Approaches for Emergency Room Visit Prediction based on Electronic Health Record Data.
 * [IJCAI2018]<b>Qiao, Zhi</b>; Zhao, Shiwan; Xiao, Cao; Li, Xiang; Qin, Yong; Wang, Fei. Pairwise-Ranking based Collaborative Recurrent Neural Networks for Clinical Event Prediction.
-* [MIE2017]  <b>Qiao, Zhi</b>; Li, X; Liu, H; Zhang, Lei; Cao, J; Xie, G; Qin, N; Jiang, Hui; Lin, H. Using Statistics and Data MiningApproaches to Analyze Male Sexual Behaviors and Use of Erectile Dysfunction Drugs Based on Large Questionnaire Data. 
 * [CIKM2016] Lu, Yao; <b>Qiao, Zhi</b>; Zhou, Chuan; Hu, Yue; Guo, Li. Location-aware friend recommendation in event-based social networks: A bayesian latent factor approach. 
 * [CIKM2016] Gao, Li; Wu, Jia; <b>Qiao, Zhi</b>; Zhou, Chuan; Yang, Hong; Hu, Yue. Collaborative social group influence for event recommendation. 
 * [DSC2016]  Lu, Yao; <b>Qiao, Zhi</b>; Zhang, Peng; Guo, Li. Ranking-based music recommendation in online music radios. 
@@ -42,9 +40,11 @@ Conference Papers
 
 Journal Papers
 ======
-* [JSIP] <b>Qiao, Zhi</b>; Zhou, Chuan; Ji, Xiancai; Cao, Yanan; Guo, Li. Event Recommendation Based on Geographical Features and Heterogeneous Social Relationships. Journal of Chinese Information Processing 30 (5), 47-56, 2016
-* [KBS]  <b>Qiao, Zhi</b>; Huang, Guangyan; He, Jing; Zhang, Peng; Zhang, Yanchun; Guo, Li. Modelling semantics across multiple time series and its applications. Knowledge-Based Systems 85, 27-36, 2015
-* [NS].  Li, Lingyun; Ao, Ji; <b>Qiao, Zhi</b>; Li, Jian. Research on Security Event Real-time Monitoring Framework Based on Micro-blog. Netinfo Security, 16-23, 2015
+* [HTI] <b>Qiao, Zhi</b>; Sun, Ning; Li, Xiang; Xia, Eryu; Zhao, Shiwan; Qin, Yong. Using Machine Learning Approaches for Emergency Room Visit Prediction based on Electronic Health Record Data. 247:111-115, 2018
+* [HTI] <b>Qiao, Zhi</b>; Li, X; Liu, H; Zhang, Lei; Cao, J; Xie, G; Qin, N; Jiang, Hui; Lin, H. Using Statistics and Data MiningApproaches to Analyze Male Sexual Behaviors and Use of Erectile Dysfunction Drugs Based on Large Questionnaire Data. 235: 206-210, 2017
+* [JSIP]<b>Qiao, Zhi</b>; Zhou, Chuan; Ji, Xiancai; Cao, Yanan; Guo, Li. Event Recommendation Based on Geographical Features and Heterogeneous Social Relationships. Journal of Chinese Information Processing 30 (5), 47-56, 2016
+* [KBS] <b>Qiao, Zhi</b>; Huang, Guangyan; He, Jing; Zhang, Peng; Zhang, Yanchun; Guo, Li. Modelling semantics across multiple time series and its applications. Knowledge-Based Systems 85, 27-36, 2015
+* [NS]  Li, Lingyun; Ao, Ji; <b>Qiao, Zhi</b>; Li, Jian. Research on Security Event Real-time Monitoring Framework Based on Micro-blog. Netinfo Security, 16-23, 2015
 
 Patents
 ======
