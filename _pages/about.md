@@ -12,7 +12,7 @@ I am Associate Director of Machine Learning in the Analytics Center of Excellenc
 
 News
 ======
-<font size="3" color="red">* Oct 2020: Our paper 'FLANNEL: Focal Loss Based Neural Network Ensemble for COVID-19 Detection' is accepted by Journal of the American Medical Informatics Association(JAMIA)</font>
+  * <font size="3" color="red">Oct 2020: Our paper 'FLANNEL: Focal Loss Based Neural Network Ensemble for COVID-19 Detection' is accepted by Journal of the American Medical Informatics Association(JAMIA)</font>
   * Aug 2020: [PyHealth](https://github.com/yzhao062/PyHealth) (a python library for Healthcare AI) is released! (As Core Designer&Developer). 
   * May 2020: For severe Covid19, we make the detailed benchmark comparison on Xray-based deep learning diagnose and present a efficient deep ensemble strategy for accurate diagnose. The work is submitted to JAMIA.
   * April 2020: A short paper is accepted by SIGIR2020. (On clinical diagnose)
