@@ -40,12 +40,12 @@ Conference Papers
 
 Journal Papers
 ======
-* [JAMIA] <b>Qiao, Zhi</b>; Bae, Austin; Glass, Lucas; Xiao, Cao; Sun, Jimeng. FLANNEL: Focal Loss Based Neural Network Ensemble for COVID-19 Detection. Accepted by Journal of the American Medical Informatics Association.
-* [HTI] <b>Qiao, Zhi</b>; Sun, Ning; Li, Xiang; Xia, Eryu; Zhao, Shiwan; Qin, Yong. Using Machine Learning Approaches for Emergency Room Visit Prediction based on Electronic Health Record Data. Studies in Health Technology and Informatics. 247:111-115, 2018
-* [HTI] <b>Qiao, Zhi</b>; Li, X; Liu, H; Zhang, Lei; Cao, J; Xie, G; Qin, N; Jiang, Hui; Lin, H. Using Statistics and Data MiningApproaches to Analyze Male Sexual Behaviors and Use of Erectile Dysfunction Drugs Based on Large Questionnaire Data. Studies in Health Technology and Informatics. 235: 206-210, 2017
-* [JSIP]<b>Qiao, Zhi</b>; Zhou, Chuan; Ji, Xiancai; Cao, Yanan; Guo, Li. Event Recommendation Based on Geographical Features and Heterogeneous Social Relationships. Journal of Chinese Information Processing 30 (5), 47-56, 2016
-* [KBS] <b>Qiao, Zhi</b>; Huang, Guangyan; He, Jing; Zhang, Peng; Zhang, Yanchun; Guo, Li. Modelling semantics across multiple time series and its applications. Knowledge-Based Systems 85, 27-36, 2015
-* [NS]  Li, Lingyun; Ao, Ji; <b>Qiao, Zhi</b>; Li, Jian. Research on Security Event Real-time Monitoring Framework Based on Micro-blog. Netinfo Security, 16-23, 2015
+* [JAMIA2020] <b>Qiao, Zhi</b>; Bae, Austin; Glass, Lucas; Xiao, Cao; Sun, Jimeng. FLANNEL: Focal Loss Based Neural Network Ensemble for COVID-19 Detection. Accepted by Journal of the American Medical Informatics Association.
+* [HTI2018] <b>Qiao, Zhi</b>; Sun, Ning; Li, Xiang; Xia, Eryu; Zhao, Shiwan; Qin, Yong. Using Machine Learning Approaches for Emergency Room Visit Prediction based on Electronic Health Record Data. Studies in Health Technology and Informatics. 247:111-115, 2018
+* [HTI2017] <b>Qiao, Zhi</b>; Li, X; Liu, H; Zhang, Lei; Cao, J; Xie, G; Qin, N; Jiang, Hui; Lin, H. Using Statistics and Data MiningApproaches to Analyze Male Sexual Behaviors and Use of Erectile Dysfunction Drugs Based on Large Questionnaire Data. Studies in Health Technology and Informatics. 235: 206-210, 2017
+* [JSIP2016]<b>Qiao, Zhi</b>; Zhou, Chuan; Ji, Xiancai; Cao, Yanan; Guo, Li. Event Recommendation Based on Geographical Features and Heterogeneous Social Relationships. Journal of Chinese Information Processing 30 (5), 47-56, 2016
+* [KBS2015] <b>Qiao, Zhi</b>; Huang, Guangyan; He, Jing; Zhang, Peng; Zhang, Yanchun; Guo, Li. Modelling semantics across multiple time series and its applications. Knowledge-Based Systems 85, 27-36, 2015
+* [NS2015]  Li, Lingyun; Ao, Ji; <b>Qiao, Zhi</b>; Li, Jian. Research on Security Event Real-time Monitoring Framework Based on Micro-blog. Netinfo Security, 16-23, 2015
 
 Patents
 ======
