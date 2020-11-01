@@ -18,6 +18,7 @@ author_profile: true
 
 Conference Papers
 ======
+* [BIBM2020]<b>Qiao, Zhi</b>; Qian, Zhen; Tang, Hui; Yin, Yong; Huang, Chao Huang; Fan, Wei. CorGAN: Context aware Recurrent Generative Adversarial Network for Medical Image Generation. Accepted by BIBM as short paper
 * [SIGIR2020]<b>Qiao, Zhi</b>; Zhang, Zhen; Wu, Xian; Ge, Shen; Fan, Wei. MHM: Multi-modal Clinical Data based Hierarchical Multi-label Diagnosis Prediction. 
 * [ICME2020] Li, Yongzhi; Chi, Lu; Tian, Guiyu; Mu, Yadong; Ge, Shen; <b>Qiao, Zhi</b>; Wu, Xian; Fan, Wei. Spectrally-Enforced Global Receptive Field for Contextual Medical Image Segmentation and Classification. 
 * [AAAI2020] Xue, Yuan; Tang, Hui; <b>Qiao, Zhi</b>; Gong, Zhiguo; Yin, Yong; Qian, Zhen; Huang, Chao; Fan, Wei; Huang, Xiaolei. Shape-Aware Organ Segmentation vy Predicting Signed Distance Maps. 
