@@ -9,8 +9,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Harbin Institute of Technology, 2009.
 * Ph.D in Computer Science, University of Chinese Academy of Sciences, 2016
+* B.S. in Computer Science, Harbin Institute of Technology, 2009.
 
 Work experience
 ======
