@@ -19,7 +19,7 @@ author_profile: true
 Conference Papers
 ======
 * [BIBM2020]<b>Qiao, Zhi</b>; Qian, Zhen; Tang, Hui; Yin, Yong; Huang, Chao Huang; Fan, Wei. CorGAN: Context aware Recurrent Generative Adversarial Network for Medical Image Generation. Accepted by BIBM as short paper. [<a href="https://arxiv.org/submit/3448979/view">pdf</a>][<a href="https://github.com/qxiaobu/CorGAN">code</a>]
-* [SIGIR2020]<b>Qiao, Zhi</b>; Zhang, Zhen; Wu, Xian; Ge, Shen; Fan, Wei. MHM: Multi-modal Clinical Data based Hierarchical Multi-label Diagnosis Prediction. 
+* [SIGIR2020]<b>Qiao, Zhi</b>; Zhang, Zhen; Wu, Xian; Ge, Shen; Fan, Wei. MHM: Multi-modal Clinical Data based Hierarchical Multi-label Diagnosis Prediction. [<a href="https://dl.acm.org/doi/10.1145/3397271.3401275">pdf</a>][<a href="https://github.com/qxiaobu/MHM">code</a>]
 * [ICME2020] Li, Yongzhi; Chi, Lu; Tian, Guiyu; Mu, Yadong; Ge, Shen; <b>Qiao, Zhi</b>; Wu, Xian; Fan, Wei. Spectrally-Enforced Global Receptive Field for Contextual Medical Image Segmentation and Classification. 
 * [AAAI2020] Xue, Yuan; Tang, Hui; <b>Qiao, Zhi</b>; Gong, Zhiguo; Yin, Yong; Qian, Zhen; Huang, Chao; Fan, Wei; Huang, Xiaolei. Shape-Aware Organ Segmentation vy Predicting Signed Distance Maps. 
 * [IJCAI2019]<b>Qiao, Zhi</b>; Wu, Xian; Ge, Shen; Fan, Wei. MNN: multimodal attentional neural networks for diagnosis prediction. 
