@@ -41,7 +41,7 @@ Conference Papers
 
 Journal Papers
 ======
-* [2021] Zhao, Yue; <b>Qiao, Zhi</b>; Xiao, Cao; Glass, Lucas; Sun, Jimeng. PyHealth: A Python Library for Health Predictive Models. Subimitted JMRL.[<a href="https://arxiv.org/pdf/2101.04209.pdf">pdf</a>]
+* [2021] Zhao, Yue; <b>Qiao, Zhi</b>; Xiao, Cao; Glass, Lucas; Sun, Jimeng. PyHealth: A Python Library for Health Predictive Models. Subimitted JMRL.[<a href="https://arxiv.org/pdf/2101.04209.pdf">pdf</a>][<a href="https://github.com/yzhao062/PyHealth">code</a>]
 * [JAMIA2020] <b>Qiao, Zhi</b>; Bae, Austin; Glass, Lucas; Xiao, Cao; Sun, Jimeng. FLANNEL: Focal Loss Based Neural Network Ensemble for COVID-19 Detection. Accepted by Journal of the American Medical Informatics Association. [<a href="https://arxiv.org/abs/2010.16039">pdf</a>][<a href="https://github.com/qxiaobu/FLANNEL">code</a>]
 * [HTI2018] <b>Qiao, Zhi</b>; Sun, Ning; Li, Xiang; Xia, Eryu; Zhao, Shiwan; Qin, Yong. Using Machine Learning Approaches for Emergency Room Visit Prediction based on Electronic Health Record Data. Studies in Health Technology and Informatics. 247:111-115, 2018
 * [HTI2017] <b>Qiao, Zhi</b>; Li, X; Liu, H; Zhang, Lei; Cao, J; Xie, G; Qin, N; Jiang, Hui; Lin, H. Using Statistics and Data MiningApproaches to Analyze Male Sexual Behaviors and Use of Erectile Dysfunction Drugs Based on Large Questionnaire Data. Studies in Health Technology and Informatics. 235: 206-210, 2017
