@@ -12,8 +12,8 @@ I am Associate Director of Machine Learning in the Analytics Center of Excellenc
 
 News
 ======
-
-  * <font size="3" color="red">Oct 31 2020: Our paper 'CorGAN: Context aware Recurrent Generative Adversarial Network for Medical Image Generation' is accepted by BIBM2020(CCF Rank B conference) as short paper</font>
+  * <font size="3" color="red">Jan 10 2021: Submit PyHealth relative document to JMRL </font>
+  * Oct 31 2020: Our paper 'CorGAN: Context aware Recurrent Generative Adversarial Network for Medical Image Generation' is accepted by BIBM2020(CCF Rank B conference) as short paper
   * Oct 25 2020: Our paper 'FLANNEL: Focal Loss Based Neural Network Ensemble for COVID-19 Detection' is accepted by Journal of the American Medical Informatics Association(JAMIA)
   * Aug 2020: [PyHealth](https://github.com/yzhao062/PyHealth) (a python library for Healthcare AI) is released! (As Core Designer&Developer). 
   * May 2020: For severe Covid19, we make the detailed benchmark comparison on Xray-based deep learning diagnose and present a efficient deep ensemble strategy for accurate diagnose. The work is submitted to JAMIA.
