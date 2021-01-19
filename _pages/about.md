@@ -12,8 +12,8 @@ I am Associate Director of Machine Learning in the Analytics Center of Excellenc
 
 News
 ======
-  * <font size="4" color="red">Jan 19 2021: Have a new system paper (SUOD: Accelerating Large-scale Unsupervised Heterogeneous Outlier Detection) accepted at Conference on Machine Learning Systems (MLSys'21)[<a href="https://www.andrew.cmu.edu/user/yuezhao2/papers/21-mlsys-suod.pdf">Doc</a>][<a href="https://github.com/yzhao062/SUOD">Code</a>].</font>
-  * Jan 10 2021: We have a latest library PyHealth released for more than 30 state-of-the-art predictive health algorithms (mostly deep learning based). See the corresponding paper under review at JMLR as well! [<a href="https://arxiv.org/pdf/2101.04209.pdf">Doc</a>][<a href="https://github.com/yzhao062/PyHealth">Code</a>]
+  * <font size="4" color="red">Jan 19 2021: Have a new system paper (SUOD: Accelerating Large-scale Unsupervised Heterogeneous Outlier Detection) accepted at Conference on Machine Learning Systems (MLSys'21)[<a href="https://www.andrew.cmu.edu/user/yuezhao2/papers/21-mlsys-suod.pdf">Paper</a>][<a href="https://github.com/yzhao062/SUOD">Code</a>].</font>
+  * Jan 10 2021: We have a latest library PyHealth released for more than 30 state-of-the-art predictive health algorithms (mostly deep learning based). See the corresponding paper under review at JMLR as well! [<a href="https://arxiv.org/pdf/2101.04209.pdf">Paper</a>][<a href="https://github.com/yzhao062/PyHealth">Code</a>]
   * Oct 31 2020: Our paper 'CorGAN: Context aware Recurrent Generative Adversarial Network for Medical Image Generation' is accepted by BIBM2020(CCF Rank B conference) as short paper
   * Oct 25 2020: Our paper 'FLANNEL: Focal Loss Based Neural Network Ensemble for COVID-19 Detection' is accepted by Journal of the American Medical Informatics Association(JAMIA)
   * Aug 2020: [PyHealth](https://github.com/yzhao062/PyHealth) (a python library for Healthcare AI) is released! (As Core Designer&Developer). 
