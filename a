@@ -1,0 +1,72 @@
+    acc_top1 = 0
+    acc_top2 = 0
+    acc_top3 = 0
+    n_all = len(doctor_label_data)
+    import numpy as np
+    real_n_list = np.zeros(8)
+    pre_n_list_1 = np.zeros(8)
+    correct_pre_n_list_1 = np.zeros(8)
+
+    pre_n_list_2 = np.zeros(8)
+    correct_pre_n_list_2 = np.zeros(8)
+
+    pre_n_list_3 = np.zeros(8)
+    correct_pre_n_list_3 = np.zeros(8)
+
+    for idx in range(len(doctor_label_data)):
+        real_label = real_label_dict[int(doctor_label_data[idx][0].split('\\')[3])]
+        top1 = doctor_label_data[idx][1]
+        top2 = doctor_label_data[idx][2]
+        top3 = doctor_label_data[idx][3]
+        real_n_list[real_label] += 1
+        pre_n_list_1[top1] += 1
+        # pre_n_list_2[top1] += 1
+        # pre_n_list_2[top2] += 1
+        #
+        # pre_n_list_3[top1] += 1
+        # pre_n_list_3[top2] += 1
+        # pre_n_list_3[top3] += 1
+
+        if real_label == top1:
+            acc_top1 += 1
+            acc_top2 += 1
+            acc_top3 += 1
+            pre_n_list_2[top1] += 1
+            pre_n_list_3[top1] += 1
+            correct_pre_n_list_1[top1] += 1
+            correct_pre_n_list_2[top1] += 1
+            correct_pre_n_list_3[top1] += 1
+        elif real_label == top2:
+            acc_top2 += 1
+            acc_top3 += 1
+            pre_n_list_2[top2] += 1
+            pre_n_list_3[top2] += 1
+            correct_pre_n_list_2[top2] += 1
+            correct_pre_n_list_3[top2] += 1
+        elif real_label == top3:
+            acc_top3 += 1
+            pre_n_list_2[top1] += 1
+            pre_n_list_3[top3] += 1
+            correct_pre_n_list_3[top3] += 1
+        else:
+            pre_n_list_2[top1] += 1
+            pre_n_list_3[top1] += 1
+
+
+    # print (acc_top1/n_all, acc_top2/n_all, acc_top3/n_all)
+    import csv
+
+    with open('D:/project/fei_diease/doctor_label_for_compare/%s/measure_%s.zzz'%(doctor_id, data_type), 'w', newline='') as f:
+        csv_writer = csv.writer(f)
+        csv_writer.writerow(['Accuracy', u'@Top1', u'@Top2', u'@Top3'])
+        csv_writer.writerow(['Measure', acc_top1/n_all, acc_top2/n_all, acc_top3/n_all])
+        csv_writer.writerow(['', u'肺肿瘤', u'非典型病原体', u'诺卡菌', u'曲霉菌', u'非结核分枝杆菌', u'耶氏肺孢子菌', u'隐球菌', u'肺结核'])
+        csv_writer.writerow([u'真实量'] + list(real_n_list))
+        csv_writer.writerow([u'估计量'] + list(pre_n_list_1))
+        csv_writer.writerow([u'正确量'] + list(correct_pre_n_list_1))
+        csv_writer.writerow([u'top1准确率'] + list(correct_pre_n_list_1/pre_n_list_1))
+        csv_writer.writerow([u'top1召回率'] + list(correct_pre_n_list_1/real_n_list))
+        csv_writer.writerow([u'top2准确率'] + list(correct_pre_n_list_2/pre_n_list_2))
+        csv_writer.writerow([u'top2召回率'] + list(correct_pre_n_list_2/real_n_list))
+        csv_writer.writerow([u'top3准确率'] + list(correct_pre_n_list_3/pre_n_list_3))
+        csv_writer.writerow([u'top3召回率'] + list(correct_pre_n_list_3/real_n_list))
